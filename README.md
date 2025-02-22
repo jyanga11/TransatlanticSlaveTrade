@@ -79,15 +79,17 @@ To run the project locally, follow these steps:
 `python app.py`
 <br>
 
-Then open your browser and visit: http://127.0.0.1:8050/
+Then open your browser and visit: http://127.0.0.1:8080/
 
 
-### Data Source
+### Data Source:
 
-  - The dataset used in this project originates from historical records detailing transatlantic voyages, including:
+The dataset used in this project originates from SlaveVoyages.org and contains records of more than 36,000 voyages that transported enslaved Africans to the Americas between the 16th and 19th centuries. The dataset can be found here: https://www.slavevoyages.org/documents/download/tastdb-exp-2020.sav
 
-    - Ports of embarkation and disembarkation
+##### Key Features:
 
-    - Number of enslaved individuals transported per voyage
+  - Voyage Data: Details about individual slave ship voyages, including departure and arrival locations, number of enslaved people transported, and ship names.
 
-    - Timeline of transportation activities
+  - People Data: Information on specific enslaved individuals, including names, ages, and places of origin when available.
+
+  - Estimates & Statistics: Analysis of the total number of enslaved people transported, mortality rates, and other trade-related statistics.
