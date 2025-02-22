@@ -1,4 +1,4 @@
-# TransatlanticSlaveTrade
+# Trans-Atlantic Slave Trade Visualization Dashboard
 <br><br>
 <p align="center">
   <img src="demo.gif" />
