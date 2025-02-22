@@ -58,20 +58,26 @@ To run the project locally, follow these steps:
 #### 1. Clone the Repository
 
 `git clone https://github.com/yourusername/transatlantic-slave-trade-dashboard.git`
+<br>
 `cd transatlantic-slave-trade-dashboard`
+<br>
 
 #### 2. Set Up a Virtual Environment (Optional but Recommended)
 
 `python -m venv venv`
+<br>
 `source venv/bin/activate`
+<br>
 
 #### 3. Install Dependencies
 
 `pip install -r requirements.txt`
+<br>
 
 #### 4. Run the Application
 
 `python app.py`
+<br>
 
 Then open your browser and visit: http://127.0.0.1:8050/
 
