@@ -1,7 +1,7 @@
 # TransatlanticSlaveTrade
 <br><br>
 <p align="center">
-  <img src="assets/demo.gif" />
+  <img src="demo.gif" />
 </p>
 <br><br>
 
